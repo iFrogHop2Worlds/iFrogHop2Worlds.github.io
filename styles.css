@@ -1,12 +1,15 @@
 #header  {
     text-align: center;
-    color: rgb(6, 6, 6);
+    color: rgb(255, 255, 255);
+    font-size: large;
     background-image:url('headbackground.jpg');
-    padding: 200px;
-}
 
-#skills {
-    padding-left: 50px;
+}
+#connect {
+  padding-top: 18%;
+}
+.skills {
+  text-align: center;
 }
 
 img {
@@ -31,4 +34,8 @@ ul {
     display: block;
     padding: 8px;
  
+  }
+
+  #main-content {
+    text-align: center;
   }
